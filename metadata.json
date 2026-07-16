@@ -1,0 +1,6 @@
+{
+  "name": "SEOPilot AI",
+  "description": "Premium full-stack AI SEO Optimizer SaaS for page audits, content suggestions, blog optimization, keyword research, and competitor comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
