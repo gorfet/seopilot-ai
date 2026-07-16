@@ -1,10 +1,10 @@
-# SEOPilot AI — Enterprise SEO SaaS Platform & Client Portal
+SEOPilot AI — Enterprise SEO SaaS Platform & Client Portal
 
 SEOPilot AI is a fully integrated, full-stack SEO Management and Reporting SaaS platform designed for modern digital agencies, consultants, and their clients. It features automated technical audit crawling, semantic keyword planning, custom AI content drafting, an interactive SEO Copilot, and white-label client containment with live stripe-ready billing structures.
 
 ---
 
-## 🎨 Visual Identity & Slate Aesthetic
+Visual Identity & Slate Aesthetic
 
 The application is engineered around a modern, premium **Slate Dark Theme** featuring:
 - **Atmospheric Typography**: Pairings of **Inter** for clean UI controls alongside **JetBrains Mono** for structural data indicators, telemetry states, and search score metadata.
@@ -13,7 +13,7 @@ The application is engineered around a modern, premium **Slate Dark Theme** feat
 
 ---
 
-## 🏗️ Technical Architecture & Key Modules
+Technical Architecture & Key Modules
 
 SEOPilot AI leverages a high-performance **Express + React (Vite)** full-stack architecture to maintain total security of sensitive credentials:
 
@@ -32,7 +32,7 @@ SEOPilot AI leverages a high-performance **Express + React (Vite)** full-stack a
 
 ---
 
-## 🔑 Authentication, Sandboxes & Guest Access
+Authentication, Sandboxes & Guest Access
 
 SEOPilot AI supports multiple secure pathways for users and reviewers:
 - **Free Guest Tier**: Click the **"Explore with Free Guest Tier"** button on the Auth Portal. This logs the user in as a standard trial user with access to the core agency interface, beginning with a clean slate of 0 monitored projects and 0% active scores so users can explore registering custom web properties.
@@ -42,7 +42,7 @@ SEOPilot AI supports multiple secure pathways for users and reviewers:
 
 ---
 
-## 🚀 Local Development & Execution
+Local Development & Execution
 
 Ensure your environment is configured, then boot the multi-process server:
 
